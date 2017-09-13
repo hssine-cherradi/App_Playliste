@@ -38,9 +38,10 @@ input, textarea  {
 }
 
 body {
-    /* margin: 0.5rem ; */
-    background: white ;
-    color: black ;
+    margin: 0.5rem;
+    background: white;
+    color: black;
+    margin-top: 0;
 }
 
 .align-center {
